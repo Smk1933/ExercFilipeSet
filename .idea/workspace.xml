@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9c7689-00fb-41df-ab60-81d099d0b1ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercFilipeSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A/Fatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A/FaturaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B/EmpregadoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E/Concessionaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E/Veiculo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2mDkA0aAqFL82PyLtWZoT6q4S9B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Concessionaria.executor": "Run",
+    "Application.DataTeste.executor": "Run",
+    "Application.EmpregadoTeste.executor": "Run",
+    "Application.FaturaTeste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9c7689-00fb-41df-ab60-81d099d0b1ba" name="Changes" comment="" />
+      <created>1726618388337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726618388337</updated>
+    </task>
+    <servers />
+  </component>
+</project>
