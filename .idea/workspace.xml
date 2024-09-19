@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9c7689-00fb-41df-ab60-81d099d0b1ba" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/F/Assistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F/Rh.java" afterDir="false" />
+    <list default="true" id="aa9c7689-00fb-41df-ab60-81d099d0b1ba" name="Changes" comment="Resolução exercicio 6">
+      <change afterPath="$PROJECT_DIR$/src/G/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G/Zoologico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H/Eletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Smk1933"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Smk1933&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Smk1933/ExercFilipeSet.git",
-    "accountId": "00c3fac8-c891-461e-8a8f-38beda1a2ba8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Smk1933/ExercFilipeSet.git&quot;,
+    &quot;accountId&quot;: &quot;00c3fac8-c891-461e-8a8f-38beda1a2ba8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -58,6 +62,8 @@
     "Application.DataTeste.executor": "Run",
     "Application.EmpregadoTeste.executor": "Run",
     "Application.FaturaTeste.executor": "Run",
+    "Application.Rh.executor": "Run",
+    "Application.Zoologico.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -80,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726687483728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolução exercicio 6">
+      <option name="closed" value="true" />
+      <created>1726692955653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726692955653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Resolução exercicio 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução exercicio 6" />
   </component>
 </project>
