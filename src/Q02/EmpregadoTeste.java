@@ -1,4 +1,4 @@
-package B;
+package Q02;
 
 public class EmpregadoTeste {
 
@@ -12,6 +12,7 @@ public class EmpregadoTeste {
 
         e1.setSalarioMensal(2200);
         e2.setSalarioMensal(4400);
+
         e1.imprimirSalarioAnual();
         e2.imprimirSalarioAnual();
 

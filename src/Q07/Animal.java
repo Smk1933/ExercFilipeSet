@@ -1,4 +1,4 @@
-package G;
+package Q07;
 
 public abstract class Animal {
 

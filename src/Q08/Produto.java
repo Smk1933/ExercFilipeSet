@@ -1,4 +1,4 @@
-package H;
+package Q08;
 
 public abstract class Produto {
 
@@ -31,6 +31,6 @@ public abstract class Produto {
     }
 
     public void imprimirFatura(){
-        System.out.println(calcularPrecoComDesconto());
+      System.out.println(calcularPrecoComDesconto());
     }
 }

@@ -1,4 +1,4 @@
-package F;
+package Q06;
 
 public class Assistente extends Funcionario{
 

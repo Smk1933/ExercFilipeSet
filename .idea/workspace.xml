@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9c7689-00fb-41df-ab60-81d099d0b1ba" name="Changes" comment="Resolução exercicio 6">
-      <change afterPath="$PROJECT_DIR$/src/G/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G/Zoologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H/Alimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H/Caixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H/Eletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H/Produto.java" afterDir="false" />
+    <list default="true" id="aa9c7689-00fb-41df-ab60-81d099d0b1ba" name="Changes" comment="Resolução exercicios 7 e 8">
+      <change afterPath="$PROJECT_DIR$/src/Q04/Conhecimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q04/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/Fatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q01/Fatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/FaturaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q01/FaturaTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q02/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B/EmpregadoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q02/EmpregadoTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q03/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C/DataTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q03/DataTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q05/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E/Concessionaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q05/Concessionaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q05/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q05/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/F/Assistente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q06/Assistente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/F/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q06/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/F/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q06/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/F/Rh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q06/Rh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/G/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q07/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/G/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q07/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/G/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q07/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/G/Zoologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q07/Zoologico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H/Alimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q08/Alimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H/Caixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q08/Caixa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q08/Eletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q08/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,17 +75,96 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Caixa.executor": "Run",
     "Application.Concessionaria.executor": "Run",
     "Application.DataTeste.executor": "Run",
     "Application.EmpregadoTeste.executor": "Run",
     "Application.FaturaTeste.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Rh.executor": "Run",
     "Application.Zoologico.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Samuel/IdeaProjects/ExercFilipeSet"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Caixa">
+    <configuration name="Caixa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q08.Caixa" />
+      <module name="ExercFilipeSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concessionaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q05.Concessionaria" />
+      <module name="ExercFilipeSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q04.Main" />
+      <module name="ExercFilipeSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q06.Rh" />
+      <module name="ExercFilipeSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q07.Zoologico" />
+      <module name="ExercFilipeSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Caixa" />
+        <item itemvalue="Application.Zoologico" />
+        <item itemvalue="Application.Rh" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Concessionaria" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726692955653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Resolução exercicios 7 e 8">
+      <option name="closed" value="true" />
+      <created>1726783823640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726783823640</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +215,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Resolução exercicio 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolução exercicio 6" />
+    <MESSAGE value="Resolução exercicios 7 e 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução exercicios 7 e 8" />
   </component>
 </project>

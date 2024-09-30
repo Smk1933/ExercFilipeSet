@@ -1,4 +1,4 @@
-package B;
+package Q02;
 
 public class Empregado {
 
@@ -36,7 +36,7 @@ public class Empregado {
         return salarioMensal * 12;
     }
     public void imprimirSalarioAnual(){
-        System.out.println("O salário anual corresponde a: " + salarioAnual());
+        System.out.println("O salário anual de " + nome + " corresponde a: " + salarioAnual());
     }
 
     }

@@ -1,6 +1,4 @@
-package H;
-
-import G.Animal;
+package Q08;
 
 public class Eletronico extends Produto {
 

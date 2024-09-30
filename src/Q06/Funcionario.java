@@ -1,4 +1,4 @@
-package F;
+package Q06;
 
 public abstract class Funcionario {
 

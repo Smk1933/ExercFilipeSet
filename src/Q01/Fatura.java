@@ -1,4 +1,4 @@
-package A;
+package Q01;
 
 public class Fatura {
 

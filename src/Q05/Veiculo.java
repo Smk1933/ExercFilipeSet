@@ -1,4 +1,4 @@
-package E;
+package Q05;
 
 public abstract class Veiculo {
 

@@ -1,22 +1,22 @@
-package C;
+package Q03;
 
 public class Data {
 
     int dia;
-    int mes;
+    String mes;
     int ano;
 
-    public Data (int dia, int mes, int ano){
+    public Data (int dia, String mes, int ano){
         this.dia = dia;
         this.mes = mes;
         this.ano = ano;
     }
 
-    public int getMes() {
+    public String getMes() {
         return mes;
     }
 
-    public void setMes(int mes) {
+    public void setMes(String mes) {
         this.mes = mes;
     }
 
